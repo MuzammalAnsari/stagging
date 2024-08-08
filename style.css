@@ -1,0 +1,66 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+  }
+  
+  .jumbotron {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+  }
+  
+  .py-5 {
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+  }
+  
+  .bg-light {
+    background-color: #f8f9fa;
+  }
+  
+  .card {
+    border: none;
+    border-radius: 0;
+  }
+  
+  .card-img-top {
+    border-radius: 0;
+  }
+  
+  .list-unstyled li {
+    margin-bottom: 0.5rem;
+  }
+  
+  .list-inline-item a {
+    margin-right: 1rem;
+  }
+  
+  footer {
+    background-color: #333;
+    color: #fff;
+  }
+  
+  footer ul {
+    margin-bottom: 0;
+  }
+  
+  .form-inline {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .form-control {
+    border-radius: 0;
+  }
+  
+  .btn-light {
+    background-color: #fff;
+    color: #333;
+    border: none;
+  }
+  
+  .btn-light:hover {
+    background-color: #e9ecef;
+    color: #333;
+  }
